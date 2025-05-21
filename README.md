@@ -20,3 +20,6 @@ Install dependencies using:
 
 ```bash
 pip install -r requirements.txt
+```
+```bash
+python ola.py
